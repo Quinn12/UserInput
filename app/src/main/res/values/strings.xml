@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserInput</string>
+    <string name = "btn_change">Calculate</string>
+    <string name="description">cvb</string>
+    <string name="prompt">bv b</string>
+    <string name="txt_hours">Meal Price?</string>
+    <string name="txt_title">Tip Calculator</string>
+    <string-array name="txtGroup">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
